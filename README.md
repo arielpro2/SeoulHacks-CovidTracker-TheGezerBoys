@@ -25,3 +25,5 @@ cd ('location of the files')
 python main.py
 
 sorry in the end we didnt manage to make an exe file
+
+you could also use the repl.it project: [repl.it](https://repl.it/talk/share/CovidTracker-TheGezerBoys/60929)
